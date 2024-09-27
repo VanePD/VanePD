@@ -15,4 +15,8 @@ It is a good place where you can contact me since I am going to upload some proj
 - Critical thinking: evaluating data quality.
 - Data storytelling: presenting data insights clearly and effectively to both technical and non-technical audiences.
 - Collaboration working in a good manner with teams including business stakeholders, IT, data engineers.
+## Hobbies
+- Painting 
+- Cooking 
+- Calisthenics
 
