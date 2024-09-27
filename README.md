@@ -9,3 +9,10 @@ It is a good place where you can contact me since I am going to upload some proj
 - Statistics and Mathematics: Techniques for description and inferential statistics. Also, knowledge of probabilities, distributions, and regression analysis.
 - Data Manipulation: Power Query and Python.
 - Machine Learning.
+ ## Skills
+- Problem-solving: using data to find solutions 
+- Data interpretation: understanding and interpreting patterns, trends, and anomalies in the data.
+- Critical thinking: evaluating data quality.
+- Data storytelling: presenting data insights clearly and effectively to both technical and non-technical audiences.
+- Collaboration working in a good manner with teams including business stakeholders, IT, data engineers.
+
