@@ -19,4 +19,6 @@ It is a good place where you can contact me since I am going to upload some proj
 - Painting 
 - Cooking 
 - Calisthenics
-
+## Languages
+Spanish (native)
+English (intermediate)
