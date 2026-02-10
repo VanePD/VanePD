@@ -1,5 +1,17 @@
 # Hello! I'm Vanessa! Data analyst
 ## About me 
-Hello! I'm passionate in collect, clean and interpret data set in order to answer a questions or solve problems. I can be involved in analyzing data in many industries like scince, medicine, business and so on. 
+I am a data analytics graduate with hands-on experience in SQL, Python, and data visualization tools like Power BI and Tableau.
+
+I enjoy transforming raw data into meaningful insights that support business decision-making.
+
+🔧 Technical Skills
+
+- SQL (data querying, aggregation, joins)
+- Python (pandas, data cleaning, visualization)
+- Power BI & Tableau
+- Excel (advanced functions, pivot tables)
+- Data cleaning and exploratory data analysis (EDA)
+  
 ## Contact me
-It is a good place where you can contact me since I am going to upload some projects that you could be interested. Also, you will be able to see my technical and analytical skills. 
+www.linkedin.com/in/vanessaponced
+
